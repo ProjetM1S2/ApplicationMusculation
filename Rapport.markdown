@@ -50,7 +50,7 @@ L’utilisateur ne peut suivre qu’un plan d'entraînement à la fois.
 * Tenir compte des paramètres utilisateurs (âge, sexe  et objectif).
 
 >###5. Prototype :
-![prototype](http://hpics.li/f6ada03)(http://hpics.li/f6ada03)
+![prototype](http://www.hostingpics.net/viewer.php?id=415963projetM1.jpg)(http://hpics.li/f6ada03)
 
 
 
