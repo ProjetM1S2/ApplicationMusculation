@@ -1,0 +1,48 @@
+@startuml
+
+
+class Utilisateur{
+nom
+prenom
+mail
+login
+mot de passe
+sexe
+date de naissance
+taille
+poids
+}
+
+class PlanEntrainement {
+AbstractExercices exercices
+durée
+}
+
+abstract class AbstractExercices {
+titre
+description
+temps
+}
+
+
+class aerobis{
+distance
+}
+
+class anaerobis{
+repetition
+}
+
+class Seance{
+}
+
+Seance -- AbstractExercices
+Seance -- Utilisateur
+
+AbstractExercices <|--  aerobis
+AbstractExercices <|--  anaerobis
+
+PlanEntrainement o-- Utilisateur
+PlanEntrainement o-- AbstractExercices
+
+@enduml
