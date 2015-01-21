@@ -19,7 +19,7 @@ L’application permet à l’utilisateur de voir les progrès effectués dans l
 
 
 >###2.Cas d’utilisation:
-
+ 
 * l’utilisateur s’enregistre en fournissant _nom, prénom, login, mail et en créant un mot de passe,  son sexe, date de naissance, taille et poids_.
 * L’utilisateur se connecte en fournissant son _login et mot de passe_.
 Il a alors accès au Dashboard qui lui propose les fonctionnalités suivantes:
