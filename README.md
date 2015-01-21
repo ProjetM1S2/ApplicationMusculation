@@ -20,7 +20,7 @@ Il a alors accès au tableau de bord qui lui propose les fonctionnalités suivan
  * __L’utilisateur peut désactiver son compte.__
 
 
->###2.les compléments d’informations nécessaires à la réalisation du projet :
+>###2.les compléments d’informations nécessaires à la réalisation du projet:
 
 * Les statistiques à afficher et les formules mathématique à appliquer.
 * Informations sur les différents exercices de musculation.
