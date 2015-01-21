@@ -24,7 +24,7 @@ Il a alors accès au tableau de bord qui lui propose les fonctionnalités suivan
 
 * Informations sur les différents exercices de musculation.
 * Informations sur la sécurité et la bonne pratique des exercices proposés.
-* Savoir comment les données mesurés (le sommeil, l’âge, le poid)  influencent sur les performances de l’utilisateur.
+* Savoir comment les données mesurés (le sommeil, l’âge, le poids)  influencent les performances de l’utilisateur.
 
 >###3.le diagramme de cas d'utilisation :
 ![useCase](http://img4.hostingpics.net/pics/561602UseCase.png)
