@@ -22,7 +22,6 @@ Il a alors accès au tableau de bord qui lui propose les fonctionnalités suivan
 
 >###2.les compléments d’informations nécessaires à la réalisation du projet:
 
-* Les statistiques à afficher et les formules mathématique à appliquer.
 * Informations sur les différents exercices de musculation.
 * Informations sur la sécurité et la bonne pratique des exercices proposés.
 * Savoir comment les données mesurés (le sommeil, l’âge, le poid)  influencent sur les performances de l’utilisateur.
