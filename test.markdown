@@ -1,1 +1,1 @@
-c'est un test par Gassama
+c'est un test
