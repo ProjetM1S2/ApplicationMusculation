@@ -11,7 +11,7 @@ User -> (Recuperer le prochain exercice du plan d'entrainement)
 User-> (Enregistrer des seances d'exercices)
 User -> (Creer un exercice)
 User -> (Visualiser les statistiques)
-User -> (Mettre a jour les donnees)
+User -> (Mettre a jour les donnees )
 }
 (Use1) <. (s'enregistrer) : extends
 (Use1) <. (Generer un plan d'entrainement) : include
