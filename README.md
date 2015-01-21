@@ -32,8 +32,8 @@ L’utilisateur ne peut suivre qu’un plan d'entraînement à la fois.
 * Informations sur la sécurité et la bonne pratique des exercices proposés.
 * Savoir comment les données mesurés (le sommeil, l’âge, le poid)  influencent sur les performances de l’utilisateur.
 
-
-
+>###4.le diagramme de cas d'utilisation:
+![useCase](http://img4.hostingpics.net/pics/561602UseCase.png)
 
 
 
