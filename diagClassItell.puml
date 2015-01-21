@@ -13,28 +13,36 @@ taille
 poids
 }
 
-
-abstract class AbstractList
-abstract AbstractCollection
-interface List
-interface Collection
-
-List <|-- AbstractList
-Collection <|-- AbstractCollection
-
-Collection <|- List
-AbstractCollection <|- AbstractList
-AbstractList <|-- ArrayList
-
-class ArrayList {
-Object[] elementData
-size()
+class PlanEntrainement {
+AbstractExercices exercices
+durée
 }
 
-enum TimeUnit {
-DAYS
-HOURS
-MINUTES
+abstract class AbstractExercices {
+titre
+description
+temps
 }
+
+
+class aerobis{
+distance
+}
+
+class anaerobis{
+repetition
+}
+
+class Seance{
+}
+
+Seance -- AbstractExercices
+Seance -- Utilisateur
+
+AbstractExercices <|--  aerobis
+AbstractExercices <|--  anaerobis
+
+PlanEntrainement o-- Utilisateur
+PlanEntrainement o-- AbstractExercices
 
 @enduml
