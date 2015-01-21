@@ -1,4 +1,4 @@
-#Rapport projet
+#<span style="color:orange">Rapport projet</span>
  
  
 ###Sujet : MiageCoaching!
@@ -22,11 +22,9 @@ Il a alors accès au tableau de bord qui lui propose les fonctionnalités suivan
 
 >###2.les compléments d’informations nécessaires à la réalisation du projet:
 
-* Informations sur les différentes catégories d'exercices proposés. Il y aura 2 catégories d'exercies:
- * Exercices aérobies: Il s'agit d'exercices basés sur la distance et la durée (cyclisme,la marche,la course,la randonnée ou le tennis).
- * Exercices anaérobies: Il s'agit d'exercices basés sur les répétions et la durée (musculation)
+* Informations sur les différents exercices de musculation.
 * Informations sur la sécurité et la bonne pratique des exercices proposés.
-* Savoir comment les données mesurés (le sommeil, l’âge, le poid)  influencent sur les performances de l’utilisateur.
+* Savoir comment les données mesurés (le sommeil, l’âge, le poids)  influencent les performances de l’utilisateur.
 
 >###3.le diagramme de cas d'utilisation :
 ![useCase](http://img4.hostingpics.net/pics/561602UseCase.png)
