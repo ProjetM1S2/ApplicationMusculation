@@ -24,7 +24,7 @@ L’utilisateur ne peut suivre qu’un plan d'entraînement à la fois.
  * __L’utilisateur peut désactiver son compte.__
 
 
->###3.les compléments d’informations nécessaires à la réalisation du projet:
+>###3.les compléments d’informations nécessaires à la réalisation du projet :
 
 * Les statistiques à afficher et les formules mathématique à appliquer.
 * Informations sur les différents exercices de musculation.
