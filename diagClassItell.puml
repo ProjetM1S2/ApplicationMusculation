@@ -1,6 +1,8 @@
 @startuml
 
 
+
+
 class Utilisateur{
 nom
 prenom
@@ -11,10 +13,12 @@ sexe
 date de naissance
 taille
 poids
+sommeil
+poidsObjectif
 }
 
 class PlanEntrainement {
-AbstractExercices exercices
+difficulté
 durée
 }
 
@@ -24,6 +28,10 @@ description
 temps
 }
 
+enum sexe{
+h
+f
+}
 
 class aerobis{
 distance
@@ -34,6 +42,14 @@ repetition
 }
 
 class Seance{
+date
+}
+
+class Graph{
+
+donnees
+titre
+description
 }
 
 Seance -- AbstractExercices
