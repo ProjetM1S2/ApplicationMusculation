@@ -42,3 +42,14 @@ Dans la vue, il y aura essentiellement des fichier jsp. Ces fichier se chargeron
 
 * __De l’application:__ 
 Un utilisateur ne peux suivre qu’un seul plan d'entraînement à la fois.
+
+
+>###5.Diagrame de classe :
+
+* __Les différentes classes :__ 
+    * _Utilisateurs_ : C'est la classe qui regroupent les attribut de l'utilisateur tel que le nom, prenom, mail... Cette classe permet à l'utilisateur de mettre à jour ses données, d'editer son profil. L'utilisateur peut posseder un poids objectif, qui est une option facultative. L'utilisateur est lié à un seul plan d'entrainement à la fois : il peut en avoir plusieurs de creer mais il ne peut en suivre qu'un seul.
+    * _Plan d'entrainement_ : La classe plan d'entrainement est utilisé par l'utilisateur pour creer ou générer un plan d'entrainement. Chaque plan d'entrainement possède une difficulté, qui se lit en nombre d'étoile, et une durée de ce plan d'entrainement.
+    * _AbstractExercices_ :  C'est une classe abstraite qui permet de gerer tout les types d'exercices. Elle posséde les attribut commun aux deux types d'exercices (aerobis et anareobis) : un titre pour l'exercice, une description de l'exercice, et un temps qui correspond à la durée de lexercice. 
+    * _Aerobis_ : C'est une classe concréte qui hérite de la classe AbstractExercices. C'est un type d'exercice concret, qui posséde une distance comme attribut.
+    * _Anaerobis_ : C'est une autre classse concrete qui hérite de la classe AbstractExercices. C'est l'autre type d'exercice concret, qui lui posséde des répétitions.
+   
