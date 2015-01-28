@@ -15,8 +15,12 @@ Pour la réalisation des graphes, nous utiliserons les librairies JavaScript
     * [amCharts] (http://www.amcharts.com/) 
     
 * __La base de données  :__
-Nous utiliserons une base de données mySQL.
-
+Nous utiliserons une base de données mySQL cae elle présente plusieurs avantages :
+    * _Rapide_: Le serveur MySQL est trés rapide. Des tests de performances sont disponibles sur le site de MySQL
+    * _Facile à utiliser_: MySQL est beaucoup plus simple à utiliser que la plupart des serveurs de bases de données commerciaux.
+    * _Connexion et Sécurité_: MySQL dispose d'un système de sécurité permettant de gérer les personnes et les machines pouvant accéder aux différentes bases.
+    * _Portabilité_: MySQL tourne sur divers systèmes tels que Unix, Windows, Linux ou OS/2.
+    
 >###2.Les acteurs :
 
 L'utilisateur est un acteur dans notre cas. C'est lui qui va interagir avec l'application et effectué les demandes. 
