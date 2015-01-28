@@ -41,19 +41,12 @@ class anaerobis{
 repetition
 }
 
-class Seance{
-date
-}
 
 class Graph{
-
 donnees
 titre
 description
 }
-
-Seance -- AbstractExercices
-Seance -- Utilisateur
 
 AbstractExercices <|--  aerobis
 AbstractExercices <|--  anaerobis
